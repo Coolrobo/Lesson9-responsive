@@ -12,14 +12,14 @@
     max-width: 500px;
     width: 100%;
     height: 300px;
-    background-color: aquamarine;
+    background-color: rgb(247, 244, 240);
     margin: 15px;
 }
 .right-block {
     max-width: 500px;
     width: 100%;
     height: 300px;
-    background-color: rgb(39, 124, 96);
+    background-color: rgb(247, 244, 240);
     margin: 15px;
 }
 
