@@ -1,13 +1,22 @@
 /* width & height exampels */
-@media (max-width: 1600px) {
+/* @media (max-width: 1600px) {
     .left-block,
     .right-block {
         border-radius: 30px;
     }
-}
-@media (max-width: 1050px) {
+} */
+@media (max-width: 1200px) {
     .wraper-box {
-    flex-direction: column;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
     align-items: center;
+    }
+}
+@media (max-width: 550px) {
+    .left-block,
+    .right-block {
+        width: 250px;
+        height: 150px;
+
     }
 }
