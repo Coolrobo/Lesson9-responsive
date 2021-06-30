@@ -15,9 +15,9 @@
 @media (max-width: 550px) {
     .left-block,
     .right-block {
-        width: 100%;
+        width: 30%;
         height: 150px;
-        background-color: rgb(247, 244, 240);
+        background-color: rgb(155, 126, 87);
         margin: 15px;
         border-radius: 15px;
     }
