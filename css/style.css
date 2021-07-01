@@ -87,9 +87,16 @@
     margin-top: 260px;
 }
 .block4 {
+    justify-content: center;
     max-width: 260px;
     width: 260px;
     height: 260px;
     background-color: azure;
-    
+    background-image: url(/images/001-hotel-1.svg);
+    background-repeat: no-repeat;
+}
+.block4 .icon {
+    width: 58px;
+    height: 58px;
+    background-color: #5863F8;
 }
