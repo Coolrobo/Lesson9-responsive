@@ -88,15 +88,34 @@
     
 }
 .block4 {
+    position: relative;
     max-width: 260px;
     width: 260px;
     height: 260px;
-    background-color: azure;
-    background-image: url(/images/001-hotel-1.svg);
-    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
 }
 .block4 .icon {
-    width: 58px;
+    position: absolute;
+    width: 59px;
     height: 58px;
+    top: 27px;
+    left: 100px;
+    border-radius: 35px;
     background-color: #5863F8;
+    background-image: url(/images/001-hotel-1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.block4 h2 {
+    position: absolute;
+    top: 100px;
+    left: 47px;
+    text-align: center;
+    font: normal bold 18px/30px poppins, serif;
+}
+.block4 h3 {
+    position: absolute;
+    width: 221px;
+    margin: 172px auto;
+    text-align: center;
 }
