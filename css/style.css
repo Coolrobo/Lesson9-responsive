@@ -108,14 +108,13 @@
 }
 .block4 h2 {
     position: absolute;
-    top: 100px;
-    left: 47px;
     text-align: center;
     font: normal bold 18px/30px poppins, serif;
+    margin: 100px 20px;
 }
 .block4 h3 {
     position: absolute;
     width: 221px;
-    margin: 172px auto;
+    margin: 172px 20px;
     text-align: center;
 }

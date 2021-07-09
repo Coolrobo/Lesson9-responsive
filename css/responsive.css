@@ -1,0 +1,7 @@
+@media (max-width: 888px) {
+    .block {
+        width: 600px;
+        flex-wrap: wrap;
+        margin: 10px;
+    }
+}
